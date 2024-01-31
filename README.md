@@ -15,7 +15,7 @@ A responsive and user-friendly sign-in/sign-up page with a slider for easy navig
 
 1. Clone the repository:
 
-``` bash :- git clone https://github.com/yourusername/slider-sign-in-up-page.git ```
+``` bash :- https://github.com/meetsavani07/Slider-Sign-in-up-page.git ```
 
 Sign in/up page Final Result Image
 
