@@ -8,7 +8,6 @@ A responsive and user-friendly sign-in/sign-up page with a slider for easy navig
 - User-friendly slider for easy navigation between sign-in and sign-up forms
 - Customizable form fields for personalization
 - Secure password input field with password strength validation
-- Social media login buttons for convenience
 - Cross-browser compatibility and accessibility support
 
 ## Usage
